@@ -8,3 +8,19 @@ Text Domain: zbmusic
 Description: This a WordPress Basic theme for thte business
 Tag: Basic WordPress Site, Blog Site, Education Site
 */
+
+
+.comment-body, 
+.comment-author img {
+	height: 40px;
+	width: 40px;
+}
+
+.right-sidebar ul {
+    font-size: 14px;
+    list-style-type: circle;
+    margin-left: 0!important;
+    background: #1E1E1E;
+    padding-left: 20px;
+}
+

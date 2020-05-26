@@ -89,9 +89,11 @@ img{
 	header #search{bottom: 15px; width: 230px; top:auto; left: 5px;}
 	header #search input{width: 194px;}
 
-	.menu{display:none;}
+	.menu{display:block;overflow: hidden;}
+
+	/*
 	.minimenu{display:block;}
-	
+	*/
 	nav .wrap-nav{background:none;}
 	
 	#main-content .comment input, #main-content .comment textarea{width:90%;}
